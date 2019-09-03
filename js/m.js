@@ -37,7 +37,7 @@ function ka(_d,_e)
 
 	_i_div_i_a=document.createElement('div')
 	_i_div_i_a.setAttribute('class','message')
-	_i_div_i_a.setAttribute('style','padding: 10px;')
+	_i_div_i_a.setAttribute('style','padding: 5px;')
 	if(_e===0)
 	{
 	_i_div_i_a.appendChild(document.createTextNode(_d));
